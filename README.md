@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="TossMap logo" width="160" height="160"></p>
+
 # TossMap MCP server
 
 Find out where to drop off household hazardous waste in the US — leftover paint, batteries, e-waste, tires, motor oil and household chemicals — by ZIP code or city.
